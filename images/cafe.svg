@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 380" width="640" height="380">
+  <rect width="640" height="380" rx="18" fill="#cfe0e8"/>
+  <rect x="80" y="90" width="480" height="250" fill="#a8573a"/>
+  <g fill="#8f4429">
+    <rect x="80" y="120" width="480" height="4"/>
+    <rect x="80" y="160" width="480" height="4"/>
+    <rect x="80" y="200" width="480" height="4"/>
+    <rect x="80" y="240" width="480" height="4"/>
+    <rect x="80" y="280" width="480" height="4"/>
+  </g>
+  <rect x="70" y="70" width="500" height="30" fill="#2b211b"/>
+  <text x="320" y="92" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="18" font-weight="700" fill="#f1e7d6" letter-spacing="4">HOLLOWBROOK</text>
+  <path d="M110 140 L250 140 L270 170 L90 170 Z" fill="#4f6b4a"/>
+  <path d="M390 140 L530 140 L550 170 L370 170 Z" fill="#4f6b4a"/>
+  <rect x="110" y="170" width="140" height="120" fill="#f6e7b8"/>
+  <rect x="390" y="170" width="140" height="120" fill="#f6e7b8"/>
+  <rect x="280" y="180" width="80" height="160" fill="#2b211b"/>
+  <circle cx="348" cy="262" r="4" fill="#e9b872"/>
+  <rect x="0" y="340" width="640" height="40" fill="#9a8f84"/>
+  <g fill="#4f6b4a">
+    <circle cx="60" cy="320" r="22"/>
+    <circle cx="590" cy="318" r="24"/>
+  </g>
+  <rect x="140" y="300" width="80" height="40" fill="#5c4d42"/>
+</svg>

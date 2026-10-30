@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" width="720" height="300">
+  <rect width="720" height="300" rx="18" fill="#f1e7d6"/>
+  <path d="M0 150 L720 150" stroke="#c9b79f" stroke-width="2" stroke-dasharray="6 8"/>
+  <path d="M0 110 L720 110 M0 190 L720 190" stroke="#e2d5c1" stroke-width="2"/>
+  <path d="M90 70 C140 50 200 60 210 100 C220 140 180 180 190 220 C150 230 120 200 110 170 C80 150 60 110 90 70 Z" fill="#7d9277"/>
+  <path d="M300 60 C360 40 420 60 430 100 C450 140 420 170 410 210 C380 240 350 230 340 200 C320 160 290 120 300 60 Z" fill="#7d9277"/>
+  <path d="M520 120 C560 100 620 110 640 140 C650 170 620 190 590 200 C560 210 530 190 520 160 Z" fill="#7d9277"/>
+  <g fill="#b5532e">
+    <circle cx="160" cy="140" r="9"/>
+    <circle cx="140" cy="175" r="9"/>
+    <circle cx="390" cy="150" r="9"/>
+    <circle cx="410" cy="175" r="9"/>
+    <circle cx="590" cy="160" r="9"/>
+  </g>
+  <g font-family="Helvetica, Arial, sans-serif" font-size="14" fill="#2b211b">
+    <text x="174" y="136">Guatemala</text>
+    <text x="154" y="190">Colombia</text>
+    <text x="300" y="140">Ethiopia</text>
+    <text x="424" y="182">Kenya</text>
+    <text x="604" y="156">Sumatra</text>
+  </g>
+</svg>
