@@ -22,6 +22,7 @@ css/style.css           all the styles
 js/main.js              mobile menu, "open now" badge, subscription price summary
 images/                 logo and illustrations (hand-drawn SVG)
 sitemap.xml, robots.txt
+llms.txt                short summary of the site and its pages for AI assistants
 CNAME                   custom domain for GitHub Pages
 ```
 
@@ -49,7 +50,10 @@ npx serve .
 1. Copy `brew-guides/v60-pour-over.html` to `brew-guides/<slug>.html` and write the guide.
    Update the `<title>`, meta description and canonical URL at the top.
 2. Add it to the list in `brew-guides/index.html`.
-3. Add its URL to `sitemap.xml`.
+3. Add its URL to `sitemap.xml`, with a `<lastmod>` set to the date of the commit.
+
+Whenever you change a page, update its `<lastmod>` in `sitemap.xml` to the date of that
+change (`git log -1 --format=%cs -- <file>` prints the last commit date for a file).
 
 ## Deploying
 
