@@ -137,6 +137,9 @@ ol.steps li { margin-bottom: 10px; }
 .about-section { padding: 40px 0; }
 .about-section + .about-section .narrow { border-top: 1px solid var(--line); padding-top: 48px; }
 .about-section h2 { margin-top: 0; font-size: 2.05rem; font-weight: 700; }
+.about-hero .lede,
+.about-section p { font-family: "Avenir Next", "Segoe UI", Helvetica, Arial, sans-serif; }
 .about-section p { max-width: 65ch; }
 .about-cta { margin-top: 32px; }
-.about-cta .btn { margin-left: 8px; }
+.about-cta .btn { margin-left: 8px; background: var(--ink); font-family: Georgia, "Iowan Old Style", "Times New Roman", serif; }
+.about-cta .btn:hover { background: var(--ink-soft); color: #fff; }
