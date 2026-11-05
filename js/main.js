@@ -12,13 +12,13 @@
 
   // Café hours, Eastern time. [open, close] in 24h, by day (0 = Sunday).
   var HOURS = {
-    0: [8, 15],
+    0: [7, 15],
     1: [7, 16],
     2: [7, 16],
     3: [7, 16],
     4: [7, 16],
     5: [7, 17],
-    6: [8, 17]
+    6: [7, 17]
   };
 
   var badge = document.querySelector("[data-open-now]");
